@@ -1,3 +1,5 @@
+GIT 2-2
+
 # Local .terraform directories
 **/.terraform/* - Игнорриет скрытый каталог .terraform вместе с содержимым, во всех директориях
 
